@@ -3,6 +3,8 @@ import HomeView from '../views/HomeView.vue'
 import ProductsView from '@/views/ProductsView.vue'
 import ContactsView from '@/views/ContactsView.vue'
 import FaqView from '@/views/FaqView.vue'
+import E404 from "@/views/E404.vue";
+
 
 
 const router = createRouter({
@@ -18,11 +20,7 @@ const router = createRouter({
       name: 'products',
       component: ProductsView,
     },
-    {
-      path: '/faq',
-      name: 'faq',
-      component: FaqView,
-    },
+    { path: '/:pathMatch(.*)*', component: E404 },
   ],
 })
 

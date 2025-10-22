@@ -1,8 +1,8 @@
 <template>
-  <div class="ml-32 mr-160 mt-16" >
+  <div class="ml-16 lg:ml-32 mr-24 lg:mr-160 mt-16" >
     <div class="py-12" id="1"></div>
     <p class="text-4xl font-black text-[#dfdfdf]" >Úvod</p>
-    <p class="mt-6 text-xl text-[#dfdfdf]">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic natus officia voluptas voluptatum? Accusantium commodi doloremque earum esse est expedita ipsum labore, mollitia officiis ratione, sed sequi vero vitae! Eveniet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum et expedita facilis ut, veritatis vitae. Adipisci commodi culpa fugiat harum hic ipsum itaque magni maiores modi mollitia quasi quos, voluptates. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consequatur facilis illum iste, obcaecati veritatis? Doloribus enim fuga ipsam maiores nobis quisquam quo quos soluta vel, vitae. Dolore, et, excepturi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab adipisci atque, distinctio eius harum, magnam nemo odit, pariatur perferendis quidem similique vero? Aliquam fuga ipsa iusto quia rerum, tempora vero.</p>
+    <p class="mt-6 text-xl text-[#dfdfdf]">Vítejte u Smart Candle s.r.o. – společnosti, která spojuje tradiční kouzlo svíček s vizí budoucnosti. Naším cílem je přinášet do domácností i do komerčních prostor něco víc než jen příjemné osvětlení a vůni. Naše svíčky jsou „inteligentní“ = využíváme moderní technologie včetně umělé inteligence, aby každý výrobek mohl reagovat na prostředí, náladu a osobní preference uživatelů.<br>Svíčka už není jen objektem, který zapálíte a necháte ho hořet — stává se interaktivním prvkem, který dokáže vnímat, přizpůsobit se a pomoci vytvořit atmosféru přesně podle vaší potřeby. A přitom zachováváme prvotřídní kvalitu materiálů, design a estetiku.</p>
   </div>
 </template>
 

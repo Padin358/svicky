@@ -21,7 +21,7 @@ setTimeout(() => {
     case 'FaqView':
       break
     case 'ProductsView':
-      break
+      content.value = "<p class='text-3xl lg:text-6xl bg-linear-to-r from-white to-yellow-200 bg-clip-text text-transparent z-10 font-black transition-all duration-500'>Produkty</p>"
     default:
       break
   }
