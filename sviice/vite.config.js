@@ -12,6 +12,7 @@ export default defineConfig({
     vueDevTools(),
     tailwindcss()
   ],
+  base: "/svicky/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

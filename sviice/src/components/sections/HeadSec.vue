@@ -11,8 +11,6 @@ const props = defineProps({
   page: String,
 })
 
-console.log(props.page)
-
 let content = ref("")
 
 setTimeout(() => {
@@ -21,8 +19,6 @@ setTimeout(() => {
       content.value = "<p class='text-3xl lg:text-6xl bg-linear-to-r from-white to-yellow-200 bg-clip-text text-transparent z-10 font-black transition-all duration-500'>SmartCandles</p><p class='text:lg lg:text-xl text-gray-50 font-semibold'>První svíčky, co myslí s vámi...</p>"
       break
     case 'FaqView':
-      break
-    case 'ContactsView':
       break
     case 'ProductsView':
       break

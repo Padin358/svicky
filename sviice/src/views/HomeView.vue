@@ -21,5 +21,4 @@ import FootSec from "@/components/sections/FootSec.vue";
   <hr class="text-[#dfdfdf]/50 mt-16 mx-24">
   <Sec4/>
   <div class="h-70"></div>
-  <FootSec/>
 </template>

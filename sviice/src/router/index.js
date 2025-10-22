@@ -19,11 +19,6 @@ const router = createRouter({
       component: ProductsView,
     },
     {
-      path: '/contacts',
-      name: 'contacts',
-      component: ContactsView,
-    },
-    {
       path: '/faq',
       name: 'faq',
       component: FaqView,
