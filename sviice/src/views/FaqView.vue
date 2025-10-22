@@ -1,4 +1,5 @@
 <template>
+  FAQ
 </template>
 
 <script setup>

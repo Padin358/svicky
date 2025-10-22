@@ -1,6 +1,7 @@
 <script setup>
+import HeadSec from '@/components/sections/HeadSec.vue';
 </script>
 
 <template>
-asdf
+  <HeadSec />
 </template>

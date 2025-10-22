@@ -1,4 +1,5 @@
 <template>
+  KONTAKT
 </template>
 
 <script setup>
