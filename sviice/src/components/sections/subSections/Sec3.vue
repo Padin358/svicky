@@ -9,7 +9,7 @@
         <li class="before:content-['•'] before:mr-5 my-2">Přizpůsobení intenzity vůně (difúze, teplota vosku)</li>
         <li class="before:content-['•'] before:mr-5 my-2">Adaptace délky hoření dle prostředí</li>
         <li class="before:content-['•'] before:mr-5 my-2">Automatické zapálení / uhašení v závislosti na situaci</li>
-        <li class="before:content-['•'] before:mr-5 my-2">Predikce spotřeby a upozornění uživateli</li>
+        <li class="before:content-['•'] before:mr-5 my-2">Predikce spotřeby a upozornění uživatele</li>
         <li class="before:content-['•'] before:mr-5 my-2">Personalizace podle uživatelových preferencí (např. oblíbená vůně, citlivost vůně)</li>
       </ul>
       <p class="text-2xl my-5 font-semibold">Jak to funguje pod pokličkou</p>
